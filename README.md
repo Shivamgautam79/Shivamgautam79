@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects/experience are available at [https://www.datascienceportfol.io/shivamportfolio79](https://www.datascienceportfol.io/shivamportfolio79)
 
-- 🌱 I’m currently learning **Machine learning and AI**
+- 🌱 I’m currently learning **AI and Machine learning**
 
 - 💬 Ask me about **Data Science projects/Queries**
 
