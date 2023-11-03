@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shivagautam790@gmail.com**
 
-- ⚡ Fun fact **I Think i am detail oriented and focused person.**
+- ⚡ fact **I Think i am detail oriented and focused person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
