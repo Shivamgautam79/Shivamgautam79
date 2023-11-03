@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Gautam</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<![image](https://github.com/Shivamgautam79/Shivamgautam79/assets/149200088/9884577c-f6ce-45a9-bf4e-e6b57d29b6a0)>
+![image](https://github.com/Shivamgautam79/Shivamgautam79/assets/149200088/9884577c-f6ce-45a9-bf4e-e6b57d29b6a0.gif)
 
 
 - 👨‍💻 All of my projects/experience are available at [https://www.datascienceportfol.io/shivamportfolio79](https://www.datascienceportfol.io/shivamportfolio79)
