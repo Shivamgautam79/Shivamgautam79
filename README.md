@@ -14,7 +14,7 @@
 
 - ⚡ fact **I Think i am detail oriented and focused person.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Hacker Rank:</h3>
 <p align="left">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>(https://www.hackerrank.com/profile/shivagautam790) 
 </p>
