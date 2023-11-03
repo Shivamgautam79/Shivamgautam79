@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Gautam</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="300" src = "![image](https://github.com/Shivamgautam79/Shivamgautam79/assets/149200088/9884577c-f6ce-45a9-bf4e-e6b57d29b6a0)">
+<![image](https://github.com/Shivamgautam79/Shivamgautam79/assets/149200088/9884577c-f6ce-45a9-bf4e-e6b57d29b6a0)>
 
 
 - 👨‍💻 All of my projects/experience are available at [https://www.datascienceportfol.io/shivamportfolio79](https://www.datascienceportfol.io/shivamportfolio79)
@@ -24,6 +24,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamgautam79&show_icons=true&locale=en&layout=compact" alt="shivamgautam79" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgautam79&" alt="shivamgautam79" /></p>
